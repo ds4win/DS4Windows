@@ -3,7 +3,7 @@
 Like those other DS4 tools, but sexier.
 
 DS4Windows is an extract anywhere program that allows you to get the best
-DualShock 4 experience on your PC. By emulating an Xbox 360 controller, many
+DualShock 4 (https://ds4-windows.com/how-to-connect-ps4-controller/) experience on your PC. By emulating an Xbox 360 controller, many
 more games are accessible. Other input controllers are also supported including the
 DualSense, Switch Pro, and JoyCon controllers (**first party hardware only**).
 

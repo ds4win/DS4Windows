@@ -14,7 +14,7 @@ website at [ds4-windows.com](http://ds4windows.com).
 
 ## Downloads
 
-- **[Main builds of DS4Windows](https://github.com/Ryochan7/DS4Windows/releases)**
+- **[Main builds of DS4Windows]([https://github.com/Ryochan7/DS4Windows/releases](https://ds4-windows.com/download/ryochan7-ds4windows/)**
 
 ## Requirements
 

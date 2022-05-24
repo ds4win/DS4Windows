@@ -8,7 +8,7 @@ more games are accessible. Other input controllers are also supported including 
 DualSense, Switch Pro, and JoyCon controllers (**first party hardware only**).
 
 This project is a fork of the work of Jays2Kings. You can find the old project
-website at [ds4windows.com](http://ds4windows.com).
+website at [ds4-windows.com](http://ds4windows.com).
 
 ![DS4Windows Preview](https://raw.githubusercontent.com/Ryochan7/DS4Windows/jay/ds4winwpf_screen_20200412.png)
 
@@ -36,15 +36,6 @@ using Microsoft BT stack. Toshiba's adapters currently do not work.
 *Disabling 'Enable output data' in the controller profile settings might help with latency issues, but will disable lightbar and rumble support.*
 - Disable **PlayStation Configuration Support** and
 **Xbox Configuration Support** options in Steam
-
-## Social
-
-[Twitter @ds4windows](https://twitter.com/ds4windows)  
-[YouTube](https://www.youtube.com/channel/UCIoUA_XLlCSZbvZGeg3Byeg)  
-[BitChute](https://www.bitchute.com/channel/uE2CbiV96u1k/)  
-[BitTube.tv](https://bittube.tv/profile/ds4windows)  
-[Mastodon @ds4windows@fosstodon.org](https://fosstodon.org/@ds4windows)  
-[Minds @ds4windows](https://www.minds.com/ds4windows/)
 
 ### Other
 
